@@ -13,7 +13,7 @@ public class App {
         int edad = sc.nextInt();
         edad = 2026 - edad;
         System.out.println("Tu edad actual es " + edad);
-
+        System.out.println("Puede que haya conflictos");
 
         sc.close();
 
