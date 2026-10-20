@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello, World!");
-        System.out.println("Introduce tu nombre");
+        System.out.println("Introduce tu nombre y apellido");
         String nombre = sc.nextLine();
         System.out.println("Hola " + nombre);
         
