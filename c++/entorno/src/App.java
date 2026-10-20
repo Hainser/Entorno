@@ -7,7 +7,15 @@ public class App {
         System.out.println("Introduce tu nombre");
         String nombre = sc.nextLine();
         System.out.println("Hola " + nombre);
-        sc.close();
         
+
+        System.out.println("Dime tu año de nacimento y te dire tu edad, estando en el 2026"); 
+        int edad = sc.nextInt();
+        edad = 2026 - edad;
+        System.out.println("Tu edad actual es " + edad);
+
+
+        sc.close();
+
     }
 }
