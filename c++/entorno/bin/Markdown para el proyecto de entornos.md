@@ -1,1 +1,0 @@
-Markdown para el proyecto de entornos
