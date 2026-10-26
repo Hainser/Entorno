@@ -15,7 +15,11 @@ public class App {
         System.out.println("Tu edad actual es " + edad);
         System.out.println("Esto no va a causar conflicto");
 
+        System.out.print("Puede que haya conflictos");
+        System.out.println("hola soy tahsin....");
         sc.close();
+        //linea 17 y 19 es cambio nuevo desde tahsin
+        System.out.println("hola soy tahsin....3rd commit para push y pull");
 
     }
 }
