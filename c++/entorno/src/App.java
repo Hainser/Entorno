@@ -14,8 +14,8 @@ public class App {
         edad = 2026 - edad;
         System.out.println("Tu edad actual es " + edad);
         System.out.println("Puede que haya conflictos");
-
+        System.out.println("hola soy tahsin....")
         sc.close();
-
+        //linea 17 y 19 es cambio nuevo desde tahsin
     }
 }
